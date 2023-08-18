@@ -41,3 +41,7 @@ Sağ Dizi: [8, 12, 22]
 Sonuç Dizi: [8, 11, 12, 16, 21, 22]
 Bu şekilde, verilen diziyi Merge Sort algoritması kullanarak sıralamış oluyoruz. 
 
+
+# <ins>Big-O gösterimi</ins>
+
+### O(n log n)
